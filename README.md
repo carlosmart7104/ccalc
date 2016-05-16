@@ -99,4 +99,4 @@ use [ccalc --help] () para más información.
 
 * La mayoria de los métodos devuelven un valor tipo string, esto es por que se ha elegido usar streams y strings para facilitar las conversiones entre tipos de tados y el procesamiento de las cadenas de texto que suponen los conjuntos de numeros y simbolos, ya que la máquina no interpreta directamente como numeros u operadores los simbolos que recibe por consola, si no como array de caracteres, que es posible convertir y manipular como strings.
 
-Este programa está bajo los Terminos de la Licencia LGPL, creado por: [carlosmart7104] (http://www.fb.com/carlosmart7104).
+Este programa está bajo los Terminos de la Licencia LGPL, creado por: [carlosmart7104] (https://github.com/carlosmart7104/.
