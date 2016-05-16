@@ -15,8 +15,11 @@ También permite usar los modificadores [--verbose] () y [--const] () despues de
  Sabiendo que las reglas para la solución de operaciones matemáticas por computadora son:
 
  0) Todas las operaciones se resuelven de izquierda a derecha y segun las 3 reglas de prioridad.
+ 
  1) Primero se resuelve lo que está entre parentesis.
+ 
  2) Después se resuelven operaciones de multiplicación (*), división (/) y módulo (%).
+ 
  3) Finalmente se resuelven sumas (+) y restas (-).
 
  Podemos deducir, como uno de los tantos posibles algoritmos de solución (y probablemente no el más optimo, pero si sencillo de exponer), el siguiente:
